@@ -1,19 +1,60 @@
-# shop
+# تطبيق المتجر الإلكتروني | Online Store App
 
-A new Flutter project.
+<p align="center">
+  <img src="readme image/app_logo.png" alt="شعار التطبيق" width="200"/>
+</p>
 
-## Getting Started
+## 📱 نبذة عن المشروع | About
 
-This project is a starting point for a Flutter application.
+تطبيق متجر إلكتروني متكامل مبني باستخدام Flutter، يتيح للمستخدمين تصفح المنتجات وإضافتها إلى سلة التسوق وإتمام عملية الشراء بسهولة.
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ المميزات | Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* واجهة مستخدم سلسة وجذابة
+* تصفح المنتجات حسب الفئات
+* البحث عن المنتجات
+* سلة تسوق متكاملة
+* نظام دفع آمن
+* حسابات مستخدمين
+* تتبع الطلبات
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# online_store_app
-# online_store_app
-# online_store_app
+## 🚀 التقنيات المستخدمة | Technologies
+
+* Flutter
+* Dart
+* Firebase (Authentication, Firestore, Storage)
+* State Management: Provider/Bloc
+* RESTful APIs
+
+## 📸 لقطات من التطبيق | Screenshots
+
+<p align="center">
+  <img src="readme image/screenshot1.png" width="200"/>
+  <img src="readme image/screenshot2.png" width="200"/>
+  <img src="readme image/screenshot3.png" width="200"/>
+</p>
+
+## ⚙️ متطلبات التشغيل | Requirements
+
+* Flutter 2.0 أو أحدث
+* Dart 2.12 أو أحدث
+* وصول للإنترنت لتحميل الحزم والاتصال بالخدمات الخلفية
+
+## 🔧 طريقة التثبيت | Installation
+
+1. استنساخ المستودع:
+```bash
+git clone https://github.com/engahmedfaiz/online_store_app.git
+الانتقال إلى مجلد المشروع:
+bash
+cd online_store_app
+تثبيت الاعتماديات:
+bash
+flutter pub get
+تشغيل التطبيق:
+bash
+flutter run
+📞 التواصل | Contact
+للاستفسارات أو الاقتراحات، يمكنك التواصل معي عبر:
+البريد الإلكتروني: engahmedfaiz5@gmail.com
+GitHub: engahmedfaiz
